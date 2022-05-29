@@ -4,6 +4,8 @@
 
 Botlan is an algorithm that will ingest television series transcripts and output a totally new script.
 
+The selected television series is [Person Of Interest](https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)) are the transcripts are retrieved from https://subslikescript.com/series/Person_of_Interest-1839578 
+
 ## Getting Started
 
 ### Prerequisites

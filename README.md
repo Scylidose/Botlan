@@ -42,3 +42,12 @@ The virtualenv package is required to create virtual environments. You can insta
 ```sh
     python main.py
 ```
+
+# References 
+
+- https://shiva-verma.medium.com/generating-a-tv-script-using-recurrent-neural-networks-dd0a645e97e7
+- https://www.youtube.com/watch?v=BeI0KQqgv3Y 
+- https://medium.com/@harshitawasthi/making-your-own-simpsons-tv-script-7f791581bf03
+- https://dev.to/yash_makan/generate-your-own-favourite-tv-episode-using-python-1pb3 
+- https://colab.research.google.com/github/resilientmax/TVSeries-Script-Generator/blob/master/dlnd_tv_script_generation.ipynb
+- https://www.kaggle.com/general/221135

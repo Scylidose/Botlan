@@ -1,6 +1,7 @@
+import script_gen
 
 def main():
-   return 0
+   print(script_gen.generate_script())
 
 if __name__ == "__main__":
     main()
